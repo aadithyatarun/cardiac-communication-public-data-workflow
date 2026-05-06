@@ -14,3 +14,4 @@ powershell.exe -ExecutionPolicy Bypass -File analysis\02_download_public_data.ps
 & $Python analysis\06_make_initial_spatial_figures.py
 & $Python analysis\07_make_dataset_overview_figure.py
 & $Python analysis\08_build_biorxiv_submission.py
+& $Python analysis\09_build_preprint_pdf.py
