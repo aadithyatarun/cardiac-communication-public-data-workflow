@@ -1,0 +1,8 @@
+pandas
+anndata
+h5py
+scipy
+matplotlib
+seaborn
+openpyxl
+python-docx

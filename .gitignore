@@ -1,0 +1,31 @@
+# Large public datasets
+data/raw/*
+data/processed/*
+data/external/
+!data/raw/
+!data/raw/README.md
+!data/processed/
+!data/processed/README.md
+
+# Generated outputs
+tables/generated/
+.cache/
+deliverables/preprint/docx_render/
+deliverables/preprint/docx_render_lo/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.tmp

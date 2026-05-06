@@ -1,0 +1,6 @@
+dataset_id,citation,year,disease_context,tissue_or_chamber,platform,data_type,processed_data_url,accession,license_or_terms,status,notes
+scaf_multiome,Leblanc et al. Nature Cardiovascular Research,2025,atrial fibrillation,left atrial appendage,10x multiome,snRNA/snATAC,GEO/GitHub,GSE238242,CC BY article; check data terms,candidate,AF vs sinus rhythm controls
+heart_failure_ncr_2022,Single-cell transcriptomics reveals cell-type-specific diversification in human heart failure,2022,heart failure/dilated cardiomyopathy,human heart,single-cell/single-nucleus,RNA-seq,GEO,GSE183852,check terms,candidate,High-priority disease dataset
+human_mi_spatial,Kuppe et al. Nature,2022,myocardial infarction,left ventricle zones,snRNA/snATAC/spatial,multiomics,cellxgene/Zenodo/HCA,,check terms,candidate,High-priority spatial validation dataset
+hca_adult_heart,Litvinukova et al. Nature,2020,healthy reference,adult human heart,multiple,sc/snRNA-seq,Human Cell Atlas/cellxgene,,CC BY 4.0 candidate,candidate,Use for baseline cell-type mapping
+gse135805_spatial_hf,Spatial Transcriptomics of Human Cardiac Tissue,2019,heart failure etiologies,human heart,Spatial Transcriptomics,spatial transcriptomics,GEO,GSE135805,check terms,candidate,Older spatial platform; useful secondary dataset

@@ -1,0 +1,10 @@
+path,size_mb,suffix
+data\raw\GSE135805\GSE135805_RAW.tar,0.693,.tar
+data\raw\GSE183852\GSE183852_Integrated_Counts.csv.gz,464.893,.csv.gz
+data\raw\GSE238242\GSE238242_RAW.tar,178.594,.tar
+data\raw\GSE238242\GSE238242_snAF.metadata.tsv.gz,0.071,.metadata.tsv.gz
+data\raw\kuppe_mi_visium\Visium_control_P1.h5ad,168.412,.h5ad
+data\raw\kuppe_mi_visium\Visium_FZ_P14.h5ad,121.953,.h5ad
+data\raw\kuppe_mi_visium\Visium_IZ_P10.h5ad,198.045,.h5ad
+data\raw\kuppe_mi_visium\Visium_RZ_P11.h5ad,70.912,.h5ad
+data\raw\README.md,0.0,.md

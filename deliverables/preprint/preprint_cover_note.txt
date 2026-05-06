@@ -1,0 +1,13 @@
+Dear bioRxiv Screening Team,
+
+Please consider this manuscript for posting in bioRxiv, preferably under Bioinformatics or Systems Biology.
+
+The manuscript reports a reproducible public-data workflow and initial spatial transcriptomics reanalysis of human cardiac datasets. It uses only public, de-identified datasets and does not report new clinical recruitment, intervention, diagnostic claims, or therapeutic recommendations.
+
+Author:
+Tarun Aadithya Magesh Raghavan
+Department of Health Science, McMaster University, Hamilton, Ontario, Canada
+Correspondence: aadithyatarun@gmail.com
+
+Sincerely,
+Tarun Aadithya Magesh Raghavan
